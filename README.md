@@ -1,4 +1,4 @@
-![Header Image](./assets/Header.png "")
+![Header Image](Header.png "")
 
 # Gradient.
 
